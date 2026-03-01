@@ -53,6 +53,10 @@ body {
   min-width: 300px;
 }
 
+a:visited {
+  color: var(--accent-2);
+}
+
 #container,
 .topbar img {
   max-width: 850px;
@@ -73,7 +77,12 @@ body {
 
 #flex {
   display: flex;
-  max-width: 850px;
+  max-width: 1024px;
+  z-index: 10;
+}
+
+#beneath {
+  z-index: 1;
 }
 
 aside {
@@ -109,6 +118,7 @@ aside {
   width: 25%;
   position: fixed;
   right: 0;
+  bottom: 35%
 }
 
 .left-image {
@@ -116,6 +126,13 @@ aside {
   position: fixed;
   left: 0;
   bottom: 0;
+}
+
+.center-image {
+  width: 30%;
+  position: fixed;
+  right: 10%;
+  bottom: 25%;
 }
 
 .aleph {
@@ -191,4 +208,8 @@ h3 {
 #linkNum {
     color:var(--accent-2);
     font-weight:bold;
+}
+
+p {
+  text-align: justify;
 }

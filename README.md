@@ -58,9 +58,9 @@ Each section will be a separate HTML page. The home page will contain links to e
 
     ![](/static/media/week1/flock.png)
 
-6) To all my peers, I'd like to ask the following question: "If the penalty for a crime is a fine, then that law only exists for the lower class. How would you propose to meaningfully hold tech giants such as Google, Microsoft, Meta, Palantir, and others ethically accountable before the public if state monetary sanctions have proven themselves inefficient?"help! im being held accountable
+6) To all my peers, I'd like to ask the following question: "If the penalty for a crime is a fine, then that law only exists for the lower class. How would you propose to meaningfully hold tech giants such as Google, Microsoft, Meta, Palantir, and others ethically accountable before the public if state monetary sanctions have proven themselves inefficient?"
 
-    ![](/static/media/week1/accountable.jpg)
+    ![help! im being held accountable](/static/media/week1/accountable.jpg)
 
 ### Post2
 
