@@ -36,6 +36,7 @@ body {
 }
 
 body {
+  background-color: var(--background);
   background-image: var(--background-img);
   color: var(--text-color);
   background-attachment: fixed;
