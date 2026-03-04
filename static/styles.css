@@ -13,19 +13,25 @@
   --background: #0e191a;
   --main-color: #af0707;
   --main-color-dk: #611212;
+  --lighter-color: #ffffff;
   --accent-1: #e6d91d;
   --accent-2: #ebae53;
   --content-spacing: 5px;
   --background-img: url("./media/psychopomp.gif");
   --banner: url("./media/clocks.gif");
-  --titleBars: url("./media/bar.png");
   --text-color: white;
   --link-color: var(--accent-1);
   --border: 1px solid black;
+  --background-img2: url("./media/week1/supernove_in_cassiopeia.webp");
+  --background-img3: url("./media/week3/red_block.webp");
+  --background-img4: url("./media/week4/colonials.webp");
+  --background-img5: url("./media/week5/kind_surgeon.webp");
+  --background-img6: url("./media/week6/red_screen_of_death.webp");
+  --background-img7: url("./media/conclusion/matrix_red.webp");
+  --titleBars: url("./media/bar.webp");
 }
-
 html {
-    cursor: url("./media/cursor.png"), auto;
+  cursor: url("./media/cursor.webp"), auto;
 }
 
 html,
@@ -44,13 +50,52 @@ body {
   background-size: cover;
 }
 
+body#week1 {
+  background-image: var(--background-img2);
+}
+
+body#week3 {
+  background-image: var(--background-img3);
+}
+
+body#week4 {
+  background-image: var(--background-img4);
+}
+
+body#week5 {
+  background-image: var(--background-img5);
+}
+
+body#week6 {
+  background-image: var(--background-img6);
+}
+
+body#conclusion {
+  background-image: var(--background-img7);
+}
+
+.welcome#week1 {
+  color: var(--lighter-color);
+}
+
+.welcome#week3 {
+  color: var(--lighter-color);
+}
+
+.welcome#week4 {
+  color: var(--lighter-color);
+}
+
+.welcome#week5 {
+  color: var(--lighter-color);
+}
+
 .topbar {
   background-image: var(--banner);
   background-size: auto;
   background-repeat: no-repeat;
   height: 150px;
   margin-bottom: var(--content-spacing);
-  border: var(--border);
   min-width: 300px;
 }
 
@@ -78,8 +123,9 @@ a:visited {
 
 #flex {
   display: flex;
-  max-width: 1024px;
+  max-width: 1400px;
   z-index: 10;
+  font-size: 1.7rem;
 }
 
 #beneath {
@@ -106,6 +152,7 @@ aside {
   font-size: 100px;
   color: var(--main-color-dk);
   text-align: center;
+  white-space: nowrap;
 }
 
 .header {
@@ -115,32 +162,69 @@ aside {
   justify-content: space-between;
 }
 
-.right-image {
+.right-image, .payment {
   width: 25%;
   position: fixed;
   right: 0;
   bottom: 35%
 }
 
-.left-image {
-  width: 20%;
+.senses {
+  width: 17%;
   position: fixed;
-  left: 0;
-  bottom: 0;
+  right: 18%;
+  bottom: 45%;
 }
 
-.center-image {
+.egov {
+  width: 25%;
+  position: fixed;
+  right: 13%;
+  bottom: 25%;
+}
+
+.left-image, .spiders {
+  width: 15%;
+  position: fixed;
+  left: 0;
+  bottom: 10%;
+}
+
+.spiders {
+  width: 15%;
+  position: fixed;
+  left: 70%;
+  bottom: 10%;
+}
+  
+
+.accountable {
+  width: 18%;
+  position: fixed;
+  right: 5%;
+  bottom: 5%;
+  z-index: 3;
+}
+
+.center-image, .vhs, .chart1, .chart2 {
   width: 30%;
   position: fixed;
   right: 10%;
   bottom: 25%;
 }
 
-.aleph {
-  width: 10%;
+.vhs {
+  width: 27%;
+  right: 0;
+  bottom: 40%;
   position: fixed;
-  left: 13%;
-  bottom: 23%;
+}
+
+.aleph {
+  width: 6%;
+  position: fixed;
+  right: 12%;
+  bottom: 26%;
   transform: rotate(53deg);
 }
 
@@ -174,36 +258,14 @@ footer {
   bottom: 0;
   width: 100%;
 }
-/* button styles */
-button {
-  background-image: var(--titleBars);
-  border: var(--border);
-  color: white;
-  margin-bottom: 10px;
-}
-th {
+
+h1, h2, h3 {
   color: var(--accent-2);
-}
-#linkNum {
-  color: var(--accent-2);
-  font-weight: bold;
-}
-h2 {
-  color: var(--accent-2);
-}
-#themeDiv {
-  position: sticky;
-  top: 550px;
 }
 
 div > li {
     list-style-type:none;
     padding-bottom:10px;
-}
-h3 {
-    display:block;
-    border-top:1px var(--accent-1);
-    padding-top:20px;
 }
 
 #linkNum {
@@ -213,4 +275,100 @@ h3 {
 
 p {
   text-align: justify;
+}
+
+.chart1 {
+  top: 15%;
+}
+
+.chart2 {
+  bottom: 10%;
+}
+
+.knowledge-god {
+  width: 20%;
+  position: fixed;
+  right: 10%;
+  bottom: 45%;
+}
+
+.uxn-illustration {
+  width: 20%;
+  position: fixed;
+  right: 15%;
+  bottom: 25%;
+}
+
+.mgba {
+  width: 15%;
+  position: fixed;
+  right: 1%;
+  bottom: 30%;
+}
+
+.gameplay {
+  width: 19%;
+  position: fixed;
+  right: 5%;
+  bottom: 3%;
+}
+
+.git-diff {
+  width: 35%;
+  position: fixed;
+  right: 0;
+  bottom: 20%;
+}
+
+.doctor {
+  width: 15%;
+  position: fixed;
+  right: 0;
+  bottom: 10%;
+}
+
+.koko {
+  width: 20%;
+  position: fixed;
+  right: 20%;
+  bottom: 20%;
+}
+
+.buzz {
+  width: 20%;
+  position: fixed;
+  right: 5%;
+  bottom: 30%;
+}
+
+.real-world-tip {
+  width: 40%;
+  position: fixed;
+  right: 0;
+  bottom: 1%;
+}
+
+@media (max-width: 2048px) {
+  .aleph {
+    left: 82%;
+    bottom: 25%;
+  }
+  .welcome {
+    font-size: 5em;
+  }
+}
+
+@media (max-width: 1920px) {
+  .chart1, .chart2 {
+    width: 25%;
+    right: 1%;
+  }
+
+  .chart1 {
+    top: 20%;
+  }
+
+  .chart2 {
+    bottom: 15%;
+  }
 }

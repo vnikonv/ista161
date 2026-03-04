@@ -14,23 +14,23 @@ Each section will be a separate HTML page. The home page will contain links to e
 
 1) Nice to meet y'all! I'm Nikon, a student from Kazakhstan. My major is Management Information Systems. My favorite possession at the moment is this bunny-looking lime plushie I got as a present from a Secret Santa. They said, it made them think of me, that the plushie resembled me. Here's a photo of it and also a few photos of me spending time with my friends at a summer house in Petropavlovsk, my hometown :3
 
-    ![](/static/media/week1/me_and_july.png)
+    ![](/static/media/week1/me_and_july.webp)
 
-    ![](/static/media/week1/talking.png)
+    ![](/static/media/week1/talking.webp)
 
-    ![](/static/media/week1/table.png)
+    ![](/static/media/week1/table.webp)
 
-    ![](/static/media/week1/creature.jpg)
+    ![](/static/media/week1/creature.webp)
 
 2) Based on the materials provided, "digitization" is a word used to describe the process of turning analog media into digital media. It has no emotional or axiological connotations, unlike "digitalization" that is the movement advocating for transformations in social relationships having to do with information exchange (e.g. the education process, taxation, patient medical information), ultimately adopting them into the digital medium. Basically, digitalization refers to the way digital information influences and structures the reality we exist in.
 
-    ![egov.kz website home page](/static/media/week1/egov.png)
+    ![egov.kz website home page](/static/media/week1/egov.webp)
 
     Many services available digitally are delivered remotely and automatically
 
     For example, in my country an e-government system was developed that stores legal documents in a digital format. It is accessible to Kazakhstani citizens via web and mobile apps. As for digitization, I remember finding a VHS tape of my parents' wedding. Prior to that, some 20 or so years ago, it was also digitized and stored on a hard drive as a file. This way, we have two instances of the same recording, stored in analog and digital carriers respectively.
 
-    ![a vhs tape](/static/media/week1/vhs_tape.jpg)
+    ![a vhs tape](/static/media/week1/vhs_tape.webp)
 
     I chose these examples, because they are very personal to me.
 
@@ -38,7 +38,7 @@ Each section will be a separate HTML page. The home page will contain links to e
 
 4) The challenges of regulating technologies have to do with imposing regulations upon decision-making entities, like governments and private companies. Those include: protecting consumers' rights, protecting personal privacy, protecting national economic interests, enforcing the rules of digital technology use, preventing and fighting existing market monopolies, regulating patents and business secrets, establishing international technological standards, censoring access to information (in extreme cases, banning access to the global internet, only allowing specific resources to be accessed).
 
-    ![](/static/media/week1/payment_censorship.jpg)
+    ![](/static/media/week1/payment_censorship.webp)
 
     I have been aware of payment processor (PayPal and Stripe) and credit card companies regulations, but I will not describe it in detail, because of the word limit
 
@@ -56,11 +56,11 @@ Each section will be a separate HTML page. The home page will contain links to e
 
     Who owns the data and what is the data lifecycle?
 
-    ![](/static/media/week1/flock.png)
+    ![](/static/media/week1/flock.webp)
 
 6) To all my peers, I'd like to ask the following question: "If the penalty for a crime is a fine, then that law only exists for the lower class. How would you propose to meaningfully hold tech giants such as Google, Microsoft, Meta, Palantir, and others ethically accountable before the public if state monetary sanctions have proven themselves inefficient?"
 
-    ![help! im being held accountable](/static/media/week1/accountable.jpg)
+    ![help! im being held accountable](/static/media/week1/accountable.webp)
 
 ### Post2
 
@@ -88,8 +88,8 @@ Nikon
 
 1) According to Gutman & Goldmeier, data is distinct from information. It is the encoded form of information, the signals received but not yet processed. The one data project I remember working on concerned a final assignment I did for the previous ISTA course. I had chosen a dataset from Kaggle.com about book metadata collected from GoodReads. I had some interesting visualizations made as I tried to answer the questions on what the data could mean. A few insights I got were: the distribution of book ratings by language is uneven, and there is a correlation between a book's popularity and its total number of pages. The images below show two graphics that visualize the results of my research.
 
-    ![](/static/media/week2/chart1.png)
-    ![](/static/media/week2/chart2.png)
+    ![](/static/media/week2/chart1.webp)
+    ![](/static/media/week2/chart2.webp)
 
 2) According to Berman et al’s "Realizing the Potential of Data Science", data science is an interdisciplinary field, connecting multiple otherwise unrelated fields. The authors interpret it as a medium through which people from different occupations can find a common language and better understand the situation as a whole. I find data science essential, because our economy is data driven: data is required for making sound plans and taking successful financial decisions.
 
@@ -135,11 +135,11 @@ Nikon
 
 1) This week's visual is an iconic Tumblr post about statistics:
 
-    ![the original Spiders Georg post](./static/media/week3/post.png)
+    ![the original Spiders Georg post](./static/media/week3/post.webp)
 
     Since it's not really a visual in a sense that it's just a screenshot of a joke, here's an artistic interpretation of Spiders Georg by a now deleted Tumblr blog of leanmeanjolyne. The source page could not be retrieved with the Wayback Machine, unfortunately.
 
-    ![an artistic rendition of Spiders Georg showing a disheveled bearded man eating a mouthful of spiders near the cave entrance](./static/media/week3/spiders_georg_lean_mean_jolyne.jpg)
+    ![an artistic rendition of Spiders Georg showing a disheveled bearded man eating a mouthful of spiders near the cave entrance](./static/media/week3/spiders_georg_lean_mean_jolyne.webp)
 
 2) My visual is a humorous explanation story to a widely believed (false) factoid claiming that on average a human swallows three spiders a year. This anecdote proposes that there had been a statistical outlier in the research data -- the alleged Spiders Georg skewing the average by consuming over 10000 spiders daily.
 
@@ -179,7 +179,7 @@ Bergman, J. (2009). Why the epidemic of fraud exists in science today. Journal o
 
 1) Nothing is new under the sun, so my visual this week is about data misuse:
 
-    ![a statement on commitment to users' personal data security removed from Firefox](./static/media/week4/git_diff.jpg)
+    ![a statement on commitment to users' personal data security removed from Firefox](./static/media/week4/git_diff.webp)
 
 2) What we see here is a Firefox git repository before and after a commit that has seemingly removed the browser's statement on valuing users' privacy in an FAQ section. Whether it's real or fake is largely irrelevant, because there are tens of Firefox forks with better moral principles. However, I believe, a decision to omit the privacy statement is representative of the direction Mozilla is taking now, from the introduction of controversial and involuntarily enabled AI tools to doing business with Chinese data vendors.
 
@@ -219,17 +219,17 @@ Nikon
 
     There have been many cases of fraudulent or hastily-made publications over the course of scientific research's existence, yet the scientific community at large can debunk the truthfulness of these publications rather quickly. One case I can remember off the top of my head pertains to the fields of zoology and linguistics -- the case of Koko the Gorilla. Surely, most of the conclusions related to the primate's ability to formulate and understand sentences have been compromised by the original researchers' bias (Francine Patterson, an animal zoologist, the head investigator) and worsened by the team's reluctance in giving access to Koko and the data collected from her (Linden, 1986, p.120), which is actually related to the principles of open data discussed this week as well. Again, this kind of research is not completely futile: there are positive social outcomes, like a shift in public perception of animal intelligence and a rise in empathy towards animals.
 
-    ![Koko holding her cat](./static/media/week5/koko_and_cat.jpg)
+    ![Koko holding her cat](./static/media/week5/koko_and_cat.webp)
 
     With that out of the way, let's move on to the reason why a failure to disclose conflict of interest is unacceptable. In 2018, there was an international controversy when the physician-in-chief at a major research center, José Baselga, had been accused of improperly disclosing his ties to Big Pharma and his sources of funding (billions of dollars in size), leading to the objectivity of more than 105 of his research papers being questioned. Not to mention his unannounced position as a board member of multiple pharmaceutical and biotechnology companies. This shows that while his papers were not falsified and met academic standards of reference/authorship/citation, he had most likely been influenced by his sponsors' money -- a fact that neither we, as readers, nor the scientific community would normally be aware of.
 
-    ![The doctor himself](./static/media/week5/jose_baselga.jpg)
+    ![The doctor himself](./static/media/week5/jose_baselga.webp)
 
 2) Having reviewed the second table of the article, I find it that a significant portion of the practices spring from the Hippocratic Oath. Undoubtedly, they are essential, but there is one ethical principle, aside from interest disclosure, that is often dismissed by researchers working with people. "Every kind of deception must be avoided." I believe that test subjects have the right to know, especially if the research can be politically weaponized to further marginalize and demonize the participants, whether the researchers have an agenda, if they collaborate/share data with a political think tank, and how the data is planned to be used (and by whom). Women, POC, people suffering from chronic illness, neurodivergent people, gender and sexually non-conforming people, and other marginalized groups are susceptible to being victims of deception when voluntarily participating in research. It should also be noted that the data received from interviews should never be tampered with for deception, misrepresentation, or any other goal.
 
 3) The article's third table contains one ethical principle I consider to be the most important one, which is "to write in one's own words." On the net, a new phrase has been going around, "ai;dr", that is itself the modified "tl;dr". The gist is: nobody wants to read AI generated stuff, even if it's written in perfect academic language. With the crisis of originality ever-present, modern, unique, and truly creative work is like fresh air.
 
-    ![A Toy Story 2 shot where Buzz Lightyear is stuck in a box in the Buzz Lighter toy section with many toys looking exactly like him](./static/media/week5/buzz.png)
+    ![A Toy Story 2 shot where Buzz Lightyear is stuck in a box in the Buzz Lighter toy section with many toys looking exactly like him](./static/media/week5/buzz.webp)
 
 4) Self-plagiarism is when you, as the author, repeat your previous ideas written in your past works as though they were new. Reusing one's work is not plagiarism when it is properly cited and treated not as new revelations but as past ideas, explicitly.
 
@@ -269,11 +269,11 @@ Nikon
 
 2) Also drawing from the same chapter, I picked a single Data Preservation Strategy (pp. 236-237) to review: Emulation. In general, this method is about creating isolated virtual environments and virtual machines that replicate older hardware on newer one, whether through emulation or virtualization. Surely, a few times I had to resort to using QEMU for my compsci projects, and, of course, I am familiar with emulators of GBA, SNES, PlayStation, and other outdated game systems first-hand. These are all tools for running one information system on top of another, but emulation does not end there. Specific solutions with preservation in mind have been developed, Collapse OS and uxn among them. Uxn is a virtual computer that is engineered to run on any pre-existing platform once an emulator is compiled for it, and CollapseOS is an operation system designed to work in postapocalyptic conditions. Uxn's primary focus are simple tools and games stored as ROMs, but this VM can run more complex software too, including the aforementioned Collapse OS.
 
-    ![mgba emulator running on win11](./static/media/week6/mgba.png)
+    ![mgba emulator running on win11](./static/media/week6/mgba.webp)
 
-    ![an illustration for uxn by Rek Bell](./static/media/week6/uxn_776.png)
+    ![an illustration for uxn by Rek Bell](./static/media/week6/uxn_776.webp)
 
-    ![gameplay of polycat, a uxn game](./static/media/week6/polycat.png)
+    ![gameplay of polycat, a uxn game](./static/media/week6/polycat.webp)
 
     you can play and download this game [here](https://hundredrabbits.itch.io/polycat)
 
@@ -309,7 +309,7 @@ It is a sort of a time capsule compiled from geographic, historical, and humanit
 
 Moving on to your question, in my opinion, the answer largely has to do with what we value more: the right to privacy and oblivion or the archival effort aimed at preserving knowledge. These are fundamentally opposite. From my experience, it hurts a lot when there is a tweet or a YouTube video that you remember existing but when you try finding it nothing comes up, not even with the WaybackMachine. I acknowledge that creators and users may choose to hide the content they produce over arbitrary reasons (concerns for personal/sensitive information included), but it pains me to see data disappear. Perhaps, as a compromise, the dataset you mentioned could be made private or partially open to the public after sanitation. Then, after every person in the dataset is dead, it would be ethical to make the dataset completely public as it will be considered a document of historical significance that must not be altered. Moreover, while they are still alive, the people mentioned in the dataset can be contacted and asked for their permission to publish the data related to them.
 
-![Comic transcript on the source website](./static/media/week6/knowledge_god.png)
+![Comic transcript on the source website](./static/media/week6/knowledge_god.webp)
 
 Finally, as another argument for preservation of all data, even the personal one, I find it that oblivion may also be viewed as a punishment. Please, read about damnatio memoriae for more information. Writing sentimentally, "we exist while we are remembered", and the majority of people are remembered by the data they produced and the memories they created in other people's minds.
 
